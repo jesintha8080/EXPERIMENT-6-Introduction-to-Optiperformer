@@ -6,7 +6,7 @@ Download and install OptiPerformer software on your computer and run a sample fi
 
 ---
 
-## Overview
+## Overview 
 
 Optiwave introduces **OptiPerformer**, a free photonic design automation tool that harnesses the full power of OptiSystem and creates specific dynamic design scenarios for student use.
 
